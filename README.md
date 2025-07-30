@@ -55,7 +55,9 @@ Open the displayed localhost URL in your browser to use the app.
 How can you use the website:
 
   Upload a clear image in .png, .jpg, or .jpeg format.
+  
   wait for the model to process and see the prediction with confidence.
+  
   Refresh or upload new images as needed.
 
 
