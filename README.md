@@ -60,4 +60,4 @@ How can you use the website:
 
 
 ![Alt text](https://github.com/Mony1235/Image-Classification/blob/main/WhatsApp%20Image%202025-07-30%20at%2022.10.57_1fd81151.jpg)
-
+![Alt text](https://github.com/Mony1235/Image-Classification/blob/main/horse.jpg)
