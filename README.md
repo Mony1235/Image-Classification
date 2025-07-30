@@ -57,3 +57,7 @@ How can you use the website:
   Upload a clear image in .png, .jpg, or .jpeg format.
   wait for the model to process and see the prediction with confidence.
   Refresh or upload new images as needed.
+
+
+![Alt text](https://github.com/Mony1235/Image-Classification/blob/main/WhatsApp%20Image%202025-07-30%20at%2022.10.57_1fd81151.jpg)
+
